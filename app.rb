@@ -14,5 +14,3 @@ end
 get '/checkout' do
   erb:checkout
 end
-
-
