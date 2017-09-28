@@ -12,5 +12,5 @@ get '/' do
 end
 
 get '/checkout' do
-  erb:checkout
+  "checkout"
 end
